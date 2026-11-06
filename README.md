@@ -6,6 +6,7 @@ Web Developer based in the UAE, building with HTML, CSS, JavaScript, PHP and Wor
 
 | Project | Live Demo | Code |
 |---|---|---|
+| Expense Tracker | [View](https://shaikhshaheena.github.io/expense-tracker/) | [Code](https://github.com/ShaikhShaheena/expense-tracker) |
 | Weather Dashboard | [View](https://shaikhshaheena.github.io/weather-dashboard/) | [Code](https://github.com/ShaikhShaheena/weather-dashboard) |
 | Property Finder | [View](https://shaikhshaheena.github.io/property-finder/) | [Code](https://github.com/ShaikhShaheena/property-finder) |
 | IronPulse Gym Website | [View](https://shaikhshaheena.github.io/gym-website/) | [Code](https://github.com/ShaikhShaheena/gym-website) |
@@ -14,4 +15,4 @@ Web Developer based in the UAE, building with HTML, CSS, JavaScript, PHP and Wor
 | Portfolio | [View](https://shaikhshaheena.github.io/portfolio/) | [Code](https://github.com/ShaikhShaheena/portfolio) |
 
 ## 🛠 Skills
-HTML · CSS · JavaScript · PHP · WordPress · Git & GitHub · REST APIs
+HTML · CSS · JavaScript · PHP · WordPress · Git & GitHub · REST APIs · Chart.js
